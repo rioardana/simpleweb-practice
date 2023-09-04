@@ -1,0 +1,82 @@
+.h1 {
+  font-family: arial;
+  text-align: center;
+}
+
+p {
+  font-family: arial;
+  font-weight: bold;
+  font-size: 16px;
+  text-align: center;
+}
+
+.gambar-rio {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  margin-bottom: 25px;
+}
+
+.undiknas {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 18%;
+}
+
+.uni-button {
+  display: block;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(10,102,194);
+  color: white;
+  border-radius: 20px;
+  border: none;
+  height: 40px;
+  width: 155px;
+  font-weight: bold;
+  font-size: medium;
+  cursor: pointer;
+  transition: 0.15s;
+ 
+}
+.linkedin-button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+  background-color:rgb(10,102,194);
+  color: white;
+  border-radius: 20px;
+  border: none;
+  height: 40px;
+  width: 155px;
+  font-weight: bold;
+  font-size: medium;
+  cursor: pointer;
+  transition: 0.15s;
+}
+
+.uni-button:hover {
+  background-color:rgb(2, 78, 155) ;
+}
+
+.linkedin-button:hover {
+  background-color:rgb(2, 78, 155) ;
+}
+
+.unique {
+  display: block;
+  text-align: center;
+  font-family: arial;
+}
+
+.ul {
+  display: inline-block;
+  font-weight: bold;
+  font-size: 17px;
+  text-align: left;
+}
